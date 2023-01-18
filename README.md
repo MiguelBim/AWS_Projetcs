@@ -4,4 +4,5 @@
 
 2.- Projects fomr the Cloud Computing course
 
-ITESO
+Derechos reservados.
+ITESO, 2023.
