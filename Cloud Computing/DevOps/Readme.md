@@ -1,1 +1,1 @@
-DevOps - Containers projects
+DevOps - Containers projects and class material
