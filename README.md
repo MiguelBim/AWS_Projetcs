@@ -4,4 +4,4 @@
 
 2.- Projects from the Cloud Computing course
 
-Derechos reservados.
+Derechos reservados
