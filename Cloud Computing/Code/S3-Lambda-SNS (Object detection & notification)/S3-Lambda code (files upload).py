@@ -4,7 +4,7 @@
 
 
 # Boto3 is the name of the Python SDK for AWS. It allows you to directly create, update, and delete AWS resources from your Python scripts.
-# In this project it will be used to trigger the mail using Amazon SES service from lambda
+# In this project it will be used to trigger the mail using Amazon SES service from lambda, loading files into S3
 import boto3
 
 # This is our lambda function with two inputs (event & context); event will be trigger, corresponding to a context
