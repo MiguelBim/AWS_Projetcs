@@ -15,6 +15,7 @@ def lambda_handler(event, context):
     # Access to the S3 service in order to extract the bucket name from AWS
     bucket_name = event['Records'][0]['s3']['bucket']['name']
 
+    print("Bucket details: ")
     print("Event details : ", event)
     print("File name : ", file_name)
     print("Bucket name : ", bucket_name)
