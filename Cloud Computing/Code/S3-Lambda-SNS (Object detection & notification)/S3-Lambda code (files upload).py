@@ -1,4 +1,4 @@
-# ITESO, rights reserved
+# ITESO, rights reserved.
 # Code created for the lambda practice of the Cloud Computing Course
 # Mtro. Miguel Ojeda
 
