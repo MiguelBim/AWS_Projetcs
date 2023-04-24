@@ -46,4 +46,4 @@ def lambda_handler(event, context):
 
     # Print to lambda
     print("The email to miguel.ojeda@iteso.mx was successfully sent. Lambda Notification")
-    print("Debug:\n")
+    print("Debug log:\n")
